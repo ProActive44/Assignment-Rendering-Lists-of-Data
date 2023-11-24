@@ -1,0 +1,5 @@
+.UserItems div{
+    display: flex;
+    justify-content: space-around;
+    border-bottom: 1px solid white;
+}
